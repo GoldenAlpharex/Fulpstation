@@ -179,6 +179,8 @@
 			//FULP EDIT ADDITION - Place other fulp jobs until the END mark
 			if("Brig Physician")
 				heirloom_type = /obj/item/storage/firstaid/ancient/heirloom
+			if("Mechanic") // For the spacecraft Mechanic job
+				heirloom_type = pick(/obj/item/clothing/head/welding, /obj/item/screwdriver, /obj/item/wrench, /obj/item/weldingtool, /obj/item/crowbar, /obj/item/wirecutters)
 			//FULP EDIT ENDS
 			//RnD
 			if("Research Director")

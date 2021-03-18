@@ -30,6 +30,7 @@ Chaplain=1,1
 
 Station Engineer=5,5
 Atmospheric Technician=3,2
+Mechanic=5,2 //FULP
 
 Medical Doctor=5,3
 Paramedic=2,2

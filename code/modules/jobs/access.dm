@@ -373,8 +373,8 @@
 				"Shaft Miner", "Clown", "Mime", "Janitor", "Curator", "Lawyer", "Chaplain", "Chief Engineer", "Station Engineer",
 				"Atmospheric Technician", "Chief Medical Officer", "Medical Doctor", "Paramedic", "Chemist", "Geneticist", "Virologist", "Psychologist",
 				"Research Director", "Scientist", "Roboticist", "Head of Security", "Warden", "Detective", "Security Officer", "Prisoner",
-				// FULP EDIT ADDITION - BRIGDOC
-				"Brig Physician")
+				// FULP EDIT ADDITION - BRIGDOC & MECHANIC
+				"Brig Physician", "Mechanic")
 				// FULP EDIT ENDS
 
 /proc/get_all_job_icons() //For all existing HUD icons

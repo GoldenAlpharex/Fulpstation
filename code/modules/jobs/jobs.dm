@@ -10,7 +10,10 @@ GLOBAL_LIST_INIT(command_positions, list(
 GLOBAL_LIST_INIT(engineering_positions, list(
 	"Chief Engineer",
 	"Station Engineer",
-	"Atmospheric Technician"))
+	"Atmospheric Technician",
+	// FULP EDIT ADDITION - SPACECRAFT MECHANIC
+	"Mechanic"))
+	// FULP EDIT END
 
 
 GLOBAL_LIST_INIT(medical_positions, list(
